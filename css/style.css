@@ -18,25 +18,25 @@ body,
   background-color: rgba(0, 0, 0, 0.2); }
 
 .top-nav-collapse {
-  background-color: #5D6E38; }
+  background-color: #b7c9b8; }
 
 /* Adding color to the Navbar on mobile */
 @media only screen and (max-width: 768px) {
   .navbar {
-    background-color: #5D6E38; } }
+    background-color: #b7c9b8; } }
 
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
-  background-color: #5D6E38; }
+  background-color: #b7c9b8; }
 
 .accent-color {
-  background-color: #5D6E38 !important;
+  background-color: #b7c9b8 !important;
 }
 
 .bq-accent {
-  border-left: 3px solid #5D6E38 !important; }
+  border-left: 3px solid #b7c9b8 !important; }
   .bq-accent .bq-title {
-    color: #5D6E38 !important; }
+    color: #b7c9b8 !important; }
 
 
 
